@@ -154,7 +154,7 @@ class _AdminViewResellersState extends State<AdminViewResellers> {
           ),
         ],
       ),
-    );
+    ); 
   }
 
   void _removeReseller(String id) {
@@ -163,7 +163,7 @@ class _AdminViewResellersState extends State<AdminViewResellers> {
         SnackBar(content: Text('Reseller removed successfully')),
       );
     }).catchError((error) {
-      ScaffoldMessenger.of(context).showSnackBar(
+      ScaffoldMessenger.of(context).showSnackBar( 
         SnackBar(content: Text('Failed to remove reseller: $error')),
       );
     });
