@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926138501493",
+    "project_id": "bizfuel-958e9",
+    "storage_bucket": "bizfuel-958e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926138501493:android:edcbaf037582accd13ab3c",
+        "android_client_info": {
+          "package_name": "com.example.bizfuel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1zTuoyxUF1yiRVExEk2ePpDXEKnyoY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
